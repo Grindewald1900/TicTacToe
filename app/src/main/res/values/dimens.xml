@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimen_main_bt_margin">10dp</dimen>
+    <dimen name="dimen_main_bt_margin_50">50dp</dimen>
+    <dimen name="dimen_main_bt_margin_20">20dp</dimen>
+    <dimen name="dimen_main_bt_margin_30">30dp</dimen>
+
+
+    <dimen name="dimen_main_margin_top">50dp</dimen>
+    <dimen name="dimen_button_size">100dp</dimen>
+    <dimen name="dimen_button_size_medium">80dp</dimen>
+    <dimen name="dimen_button_size_large">150dp</dimen>
+    <dimen name="dimen_80">80dp</dimen>
+    <dimen name="dimen_240">240dp</dimen>
+
+
+
+</resources>

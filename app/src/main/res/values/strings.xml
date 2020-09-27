@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Customized -->
+    <string name="toast_claimed">This block has been claimed!</string>
+    <string name="toast_x_win">X win the game, congratulations!</string>
+    <string name="toast_o_win">O win the game, congratulations!</string>
+    <string name="toast_tie"> Tie, no one win the game</string>
+    <string name="score_text">0 : 0</string>
+    <string name="text_reset">Auto-Reset (automatically reset the game)</string>
+    <string name="toast_reset_on">Auto-Reset turned on </string>
+    <string name="toast_reset_off">Auto-Reset turned off </string>
+    <string name="toast_reset">Click on Reset button to start a new game </string>
+
+
+</resources>
